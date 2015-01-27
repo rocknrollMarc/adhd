@@ -1,15 +1,10 @@
 # -----------------------------------------------------------------
 # impress.js Config
 # -----------------------------------------------------------------
-set :title, 'impress.js | presentation tool based on the power of CSS3 ' \
-            'transforms and transitions in modern browsers | by Bartek ' \
-            'Szopka @bartaz'
+set :title, 'You have ADHD and still want to live like a NORMAL PERSON and enjoy life? ' \
 
-set :description, 'impress.js is a presentation tool based on the power of ' \
-                  'CSS3 transforms and transitions in modern browsers and ' \
-                  'inspired by the idea behind prezi.com.'
-
-set :author, 'Bartek Szopka'
+  set :description, 'This is my small ADHD presentation that will hopefully help other people live a normal life withought too much pain'
+set :author, 'Rocknrollmarc'
 
 # -----------------------------------------------------------------
 # Middleman Build Config
